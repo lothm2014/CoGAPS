@@ -1,10 +1,10 @@
-version 3.9.2
-date: 2020-10-10
+version: 3.9.2
+date: 2020-10-15
 author: Melanie Loth <mloth1@jhmi.edu>
-    
-    - updated license to BSD 3
-    - added Melanie (self) as maintainer
-    
+
+    - Updated license to BSD 3
+    - Added Melanie (self) as maintainer
+
 version: 3.5.13
 date: 2019-9-9
 author: Tom Sherman <tomsherman159@gmail.com>
@@ -288,7 +288,7 @@ author: Tom Sherman <tomsherman159@gmail.com>
 
     - added a print message when a worker has finished during distributed CoGAPS
 
-version: 3.3.12 
+version: 3.3.12
 date: 2018-11-16
 author: Tom Sherman <tomsherman159@gmail.com>
 
